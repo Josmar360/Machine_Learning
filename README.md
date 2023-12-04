@@ -69,22 +69,11 @@ El presente repositorio representa un proyecto integral de diseño y desarrollo 
    - Haz clic en el botón verde "Code" y selecciona "Download ZIP".
    - Descomprime el archivo ZIP en la ubicación de tu elección.
 
-2. **Configurar la Base de Datos:**
-
-   - Abre MySQL Workbench en tu máquina. Si aún no lo tienes instalado, puedes descargarlo desde el sitio oficial: [Descargar MySQL Workbench.](https://dev.mysql.com/downloads/workbench/)
-   - Inicia sesión en MySQL Workbench con tus credenciales.
-   - En MySQL Workbench, crea una nueva conexión a la base de datos utilizando la información proporcionada en el proyecto. Asegúrate de tener acceso al servidor MySQL.
-   - En la pestaña "Server" de MySQL Workbench, selecciona la nueva conexión creada y abre un nuevo script SQL.
-   - Copia y pega el script SQL proporcionado en el proyecto para crear la estructura de la base de datos. Ejecuta el script para crear las tablas y definir las restricciones.
-   - A continuación, carga los datos en la base de datos utilizando el proceso de carga de datos bruto. Esto asegurará que la información esté disponible y actualizada.
-
 # Autor/es
 
 ---
 
 [Josmar Gustavo Palomino Castelan](https://linktr.ee/josmar360)
-
-[Diana Tamara Sanchez Panama](https://github.com/tammy275)
 
 # Información adicional
 
